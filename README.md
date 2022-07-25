@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olupy
-- 👀 I’m interested in deep learning
-- 🌱 I’m currently learning machine learning algorithms
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 a backend developer commited to delivering quality products
+- 🌱 
+- 💞️ 
 - 📫 How to reach me fortuneosho@gmail.com
 
 <!---
