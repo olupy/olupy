@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olupy
 - 👀 a backend developer commited to delivering quality products
-- 🌱 
-- 💞️ 
+- 🌱 dedication to writing clean, efficient, and maintainable code and ensures that the products i develop not only perform seamlessly but also remain adaptable to future enhancements
+- 💞️ expertise in designing architectures that can gracefully handle increased workloads while maintaining a superb user experience sets me apart as a developer 
 - 📫 How to reach me fortuneosho@gmail.com
 
 <!---
