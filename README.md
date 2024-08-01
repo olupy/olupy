@@ -4,7 +4,7 @@
 - 💞️ expertise in designing architectures that can gracefully handle increased workloads while maintaining a superb user experience sets me apart as a developer 
 - 📫 How to reach me fortuneosho@gmail.com
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olupy&langs_count=8"/>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=olupy)](https://git.io/streak-stats)
 <!---
 olupy/olupy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
